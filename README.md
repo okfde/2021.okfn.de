@@ -1,4 +1,4 @@
-# Tätigkeitsbericht 2020
+# Tätigkeitsbericht 2021
 
 Jekyll-Seite, benutzt [okf-pub-theme](https://github.com/okfde/okf-pub) als Theme.
 
@@ -7,8 +7,8 @@ Jekyll-Seite, benutzt [okf-pub-theme](https://github.com/okfde/okf-pub) als Them
 Das Repo clonen, hinein gehen, Abhängigkeiten installieren, Jekyll starten.
 
 ``` bash
-$ git clone git@github.com:okfde/2020.okfn.de.git \
-  && cd 2020.okfn.de \
+$ git clone git@github.com:okfde/2021.okfn.de.git \
+  && cd 2021.okfn.de \
   && bundle install \
   && bundle exec jekyll serve
 ```
