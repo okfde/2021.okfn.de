@@ -29,7 +29,7 @@ Der **ehrenamtlich tätige Vorstand** setzt sich aus einem Vorsitz, einem stellv
   </tr>
   <tr>
     <td>Vorsitz</td>
-    <td>ndreas Pawelke (bis 31.03.2021), Kristina Klein (ab 01.12.2021, sowie kommissarisch 01.04.-30.11.2021)</td>
+    <td>Andreas Pawelke (bis 31.03.2021), Kristina Klein (ab 01.12.2021, sowie kommissarisch 01.04.-30.11.2021)</td>
   </tr>
   <tr>
     <td>Stellv. Vorsitz</td>
