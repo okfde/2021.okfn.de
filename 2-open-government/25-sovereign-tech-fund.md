@@ -45,4 +45,4 @@ Ziel ist die Umsetzung des Förderprogramms. Dafür sollen im Jahr 2022 die Weic
 
 ### Website
 
-[https://[energyhack.de](https://sovereigntechfund.de/](https://sovereigntechfund.de/)
+[https://sovereigntechfund.de/](https://sovereigntechfund.de/)
