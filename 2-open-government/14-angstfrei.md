@@ -8,6 +8,7 @@ visual:
   img: /assets/images/opengovernment/angstfrei.png
   alt: Logo von Angstfrei: Digitale Jugendarbeit
 ---
+
 ### Das Projekt
 In der offenen Jugendarbeit liegt riesiges Potenzial. Sie bietet Räume zum Experimentieren, Ausprobieren und Kreativ sein – genau der richtige Ort, um einen selbstbestimmten Umgang mit Digitalisierung zu entwickeln. Mit „Digitalisierung: vom Angstraum zum Freiraum der Jugendarbeit“  schaffen wir Freiräume für Jugendarbeiter:innen, damit sie sich kreativ und neugierig in einem geschütztem Rahmen weiterbilden können. Im Fokus stehen Basiskompetenzen wie informationelle Selbstbestimmung und Datenschutz, aber auch diskursive Themen um die Wechselwirkungen von Digitalität.
 
