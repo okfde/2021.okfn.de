@@ -5,59 +5,83 @@ title: Forum Open Education
 website: https://education.forum-open.de/
 permalink: /open-government/forum-open-education/
 visual:
-     img: /assets/images/opengovernment/FOE20a.png
-     alt: FOE Logo
+     img: /assets/images/opengovernment/foe21.jpeg
+     alt: Foto vom Forum Open Education 2021
 ---
 
 ### Das Projekt
 
-Es muss politischer Anspruch sein, Bildung offen, partizipativ und demokratisch zu gestalten. Bildungspolitische Strategien entstehen meist jedoch hinter verschlossenen Türen. Die Perspektive der Praxis – v.a. der gemeinnützigen Initiativen aus dem Bereich der offenen Bildung – finden zu selten Beachtung im politischen Diskurs. Politik und Praxis können und wollen mehr voneinander profitieren. Was fehlt, sind gute Formate für den Austausch. Das Forum Open Education ist ein solches Veranstaltungsformat. Es ist aus dem Projekt edulabs hervorgegangen. Dabei ist es mehr als eine Veranstaltung: Es verbindet kollaborative Arbeitsphase, Vernetzung mit Community, Erarbeitung von Papers und Abschlussveranstaltung.
+Es muss politischer Anspruch sein, Bildung offen, partizipativ und demokratisch zu gestalten. Bildungspolitische Strategien entstehen meist jedoch hinter verschlossenen Türen. Die Perspektive der Praxis – insbesondere der gemeinnützigen Initiativen aus dem Bereich der offenen Bildung – finden zu selten Beachtung im politischen Diskurs. Politik und Praxis können und wollen mehr voneinander profitieren. Was fehlt, sind gute Formate für den Austausch. Das Forum Open Education ist ein solches Veranstaltungsformat, hervorgegangen aus unserem inzwischen abgeschlossenen Projekt edulabs. Dabei ist es mehr als eine Veranstaltung: Es verbindet kollaboratives Arbeiten, Vernetzung mit der Community, Erarbeiten von Veröffentlichungen und die Veranstaltung als Abschluss.
 
-### Was ist 2020 passiert?
+## Was ist 2021 passiert? 
 
-#### *Ressourcen*
+### Ressourcen
 
-  **Laufzeit** <br>
-  
-  Das Projekt läuft seit 2018.<br><br>
+#### Laufzeit
+Das Projekt lief zwischen 2018 und 2021.
 
-  **Budget** <br>
-  Einnahmen: 16.080 €<br>
-  Ausgaben: 14.440 €<br>
-  davon Personalausgaben: 14.440 €<br>
-  davon Sachausgaben: 0 €
-  <br><br>
 
-  **Personal** <br>
-  Projektleitung: Maximilian Voigt<br><br>
+#### Budget
+2021<br>
+Einnahmen: 19.000,00 €<br>
+Ausgaben: 19.000,00 €<br>
+davon Personalausgaben: 17.169,00 €<br>
+davon Sachausgaben: 1.831,00 €<br><br>
 
-  **Partner:innen** <br>
-  Wikimedia Deutschland, Bündnis Freie Bildung<br><br>
-  
-  **Förderung** <br>
-  Wikimedia Deutschland, Bundeszentrale für politische Bildung<br><br>
-  
-#### *inhaltliche Schwerpunkte*
-Offene Bildung stärken: Zusammen mit Wikimedia und dem Bündnis Freie Bildung haben wir 2020 erneut das Forum Open Education veranstaltet und darüber hinaus das ganze Jahr über gemeinsam mit politischen Entscheidungsträger:innen an konkreten Forderungen für neue Bildungsstrategien, insbesondere dem Einsatz von Open Educational Resources, gearbeitet.  
+2020<br>
+Einnahmen: 16.080,00 €<br>
+Ausgaben: 14.439,52 €<br>
+davon Personalausgaben: 14.439,52 €<br>
+davon Sachausgaben: 0,00 €<br><br>
 
-#### *Output*
-Am 8. Oktober wurden die Ergebnisse der mehrmonatigen Arbeitsphase in einer großen Abschlussveranstaltung von Bundestagsabgeordneten aller demokratischen Fraktionen digital präsentiert. Am Forum beteiligten sich die Abgeordneten Margit Stumpp, Marja-Liisa Völlers, Dr. Jens Brandenburg, Ronja Kemmer, Birke Bull-Bischoff sowie über 100 Teilgebende an der Entwicklung und Diskussion [vier gemeinsamer Strategien](https://education.forum-open.de/2020/groups/). In dem bisher einmaligen Arbeitsprozess des FOE20 korrespondierten Bundespolitik und Zivilgesellschaft auf Augenhöhe. Die Ergebnisse reichen von konkreten Konzepten - wie das Lernen in regionalen Netzwerken - bis hin zu gemeinsamen Positionen und zeigen Visionen und Lösungsansätze für eine zeitgemäße Bildung.
 
-Die Arbeitsphase war in 4 Fachgruppen eingeteilt, die jeweils ein Strategiepapier erarbeitet und veröffentlicht haben. Fachgruppe 1 zu “Für eine zeitgemäße und chancengleiche Bildung in der Digitalität”, Fachgruppe 2 “Open Educational Resources in Hochschule und Lehrkräftebildung”, Fachgruppe 3 “Lernen in regionalen Netzwerken” und Fachgruppe 4 “Lernen mit und über Künstliche Intelligenz”. Die Strategiepapier sind online verfügbar: [https://education.forum-open.de/2020/groups/](https://education.forum-open.de/2020/groups/). 
+#### ehrenamtliche Arbeit
+ehrenamtliche Arbeitszeit von ca. 50 engagierten Expert:innen aus dem Bereich Bildung
 
-Stimmen zum Forum und der Bildung allgemein sind im [Beitrag des Deutschlandfunks](https://ondemand-mp3.dradio.de/file/dradio/2020/10/09/unterrichten_mal_ganz_anders_das_forum_open_education_dlf_20201009_1448_6491a325.mp3) nachzuhören. 
+#### Personal
+Projektleitung: Maximilian Voigt
 
-#### *Outcome*
-Die Fachgruppe 1 empfiehlt, die Rolle der Bibliotheken in Deutschland als offene Lernorte zu stärken. Es geht um Chancengleichheit beim Zugang zu digitaler Bildung schon in der Grundschule. Eine Etablierung oder Professionalisierung von Schulbibliotheken, auch als Ort zur Leihe von digitalen Geräten und Etablierung freier Bildungsressourcen, soll angestrebt werden. Die Fachgruppe 2 empfiehlt, OER und Digital Literacy als Bestandteile der universitären Lehrerausbildung zu etablieren und fordert ein konkretes Fort- und Ausbildungsprogramm für Lehrkräfte. Es geht darum, Anreize für die Erstellung und Verbreitung von frei lizenzierten Lehr- und Lernangeboten zu schaffen. Die Fachgruppe 3 empfiehlt, Bildung auf regionaler Ebene zu transformieren, um Bildungsgerechtigkeit und digitale Kompetenzen durch lokale Lernnetzwerke wie Bibliotheken, Landesmedienzentren, Gemeinschaftsgärten, Kulturräume und Offene Werkstätten zu ermöglichen. Selbstwirksamkeit, selbstbestimmtes Lernen und Austausch von Wissen wird erlebbar und Schulen können entlastet werden. Die Fachgruppe 4 empfiehlt, Künstliche Intelligenz (KI) als Schlüsseltechnologie der Digitalisierung nicht den wirtschaftlichen Akteur:innen zu überlassen. Im Bildungsbereich spielt die KI schon heute in Schulclouds und Lernsoftware eine zentrale Rolle. Lehrende und Lernende sollen an der Gestaltung dieser Technologien beteiligt werden.
+#### Partner:innen
+Wikimedia Deutschland, Bündnis Freie Bildung
 
-#### *Impact*
-Der Arbeitsprozess des Forums konnte für die Erarbeitung der OER-Strategie des Bündnis Freie Bildung genutzt werden. Mit der OER-Strategie liegen alle Elemente auf dem Tisch, um Bildung auch durch konkrete politische Handlungen voranzubringen. Der Vorschlag wurde veröffentlicht mit der Forderung an die Bundesregierung, die im Koalitionsvertrag versprochene OER-Strategie des Bundes noch in dieser Legislatur vorzulegen. Dies wurde 2020 in Aussicht gestellt. 
+#### Förderung
+Wikimedia Deutschland
 
-#### *Evaluation*
-Das Forum Open Education 2020 wurde von den Teilnehmenden sehr positiv bewertet, insbesondere der intensive Co-Creation-Prozess wurde positiv hervorgehoben. 
+### Inhaltliche Schwerpunkte
+
+Offene Bildung stärken: Zusammen mit Wikimedia und dem Bündnis Freie Bildung haben wir 2021 das vorerst letzte Forum Open Education veranstaltet und darüber hinaus das ganze Jahr über gemeinsam mit politischen Entscheidungsträger:innen an konkreten Forderungen für neue Bildungsstrategien, insbesondere dem Einsatz von Open Educational Resources, gearbeitet. 
+
+### Output
+
+Am 25. und 26. August 2021 wurden die Ergebnisse der mehrmonatigen Arbeitsphase in einer großen Abschlussveranstaltung von Bundestagsabgeordneten digital präsentiert. Am Forum beteiligten sich die Abgeordneten Margit Stumpp, Marja-Liisa Völlers, Peter Heidt und Birke Bull-Bischoff und über 100 weitere Teilnehmende. Sie diskutierten und entwickelten schließlich ➠vier gemeinsame Strategien. In dem bisher einmaligen Arbeitsprozess des Forum Open Education 2021 korrespondierten Bundespolitik und Zivilgesellschaft auf Augenhöhe. Die Ergebnisse reichen von konkreten Konzepten bis hin zu gemeinsamen Positionen und zeigen Visionen und Lösungsansätze für eine zeitgemäße Bildung.
+
+Die Arbeitsphase war in vier Fachgruppen eingeteilt, die jeweils ein Strategiepapier erarbeitet und veröffentlicht haben. Die Strategiepapiere sind online verfügbar: ➠[https://education.forum-open.de/2021/groups/](https://education.forum-open.de/2021/groups/). 
+
+### Outcome
+
+Arbeitsgruppe 1: Bildungsbenachteiligungen erfassen und strukturiert angehen
+Die Arbeitsgruppen kamen zu folgenden Ergebnissen und Forderungen: Wir brauchen Daten und geeignete Instrumente, um strukturelle Benachteiligungen im Bildungssystem anzugehen und bestehende Förderangebote gerecht und effektiv zu verteilen.
+
+Arbeitsgruppe 2: Agile Netzwerke statt institutionalisierte Kompetenzzentren
+Die von der Bundesregierung geplanten Bildungskompetenzzentren („Kompetenzzentren für digitales und digital unterstütztes Unterrichten“) sollten als ➠ Communities of Practice verstanden werden, die in erster Linie bestehende Akteur:innen regional und überregional vernetzen. Der organisatorische Rahmen wird von den Kultusministerien und in Zusammenarbeit mit dem Bund gestellt. 
+
+Arbeitsgruppe 3: Sozialindex – Offene Daten für gerechte Mittelverteilung
+Die Verteilung von Bundesmitteln muss an soziale Verhältnisse geknüpft werden, wenn die Investitionen gerecht wirken sollen – dies würde ein Sozialindex ermöglichen, für dessen Realisierung eine Verbesserung und Zugänglichmachung amtlicher Daten nötig ist.
+
+Arbeitsgruppe 4: Nicht notdürftig reparieren, Bildung lokal neu denken
+Bevor wir über digitale Bildung und das nächste vermeintlich problemlösende Schulfach nachdenken, müssen wir klären, wie wir in einer Kultur der Digitalität lernen wollen – erst dann können wir Maßnahmen ergreifen.
+
+### Impact
+
+Der Arbeitsprozess hat insbesondere auf den Diskurs um die Bildungsbenachteiligung im Zuge der Corona-Pandemie eingewirkt. 
+
+### Evaluation
+
+Das Forum Open Education 2021 wurde von den Teilnehmenden sehr positiv bewertet, insbesondere der intensive Co-Creation-Prozess wurde positiv hervorgehoben. 
  
-#### *Ausblick*
-Das Forum Open:Education 2021 ist in Planung.
+### Ausblick
+
+Das Projekt ist vorerst abgeschlossen.
 
 ### Website
 
