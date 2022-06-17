@@ -1,48 +1,54 @@
 ---
 layout: page
-chapter: 2.18
-title: Energyhack Berlin
-website: https://energyhack.de/
-permalink: /open-government/energyhack/
+chapter: 2.22
+title: Prototype Fund Hardware
+website: https://hardware.prototypefund.de/
+permalink: /open-government/prototype-fund-hardware/
 visual:
-      img: /assets/images/opengovernment/energyhack.png
-      alt: Eine Beschreibung des Textes
+      img: /assets/images/opengovernment/pfh-logo.png
+      alt: Prototype Fund Hardware Logo
 ---
 
 ### Das Projekt
 
-Der Energyhack Berlin ist ein Eventformat, das Hackathons rund um das Thema Energieversorgung in Berlin durchführt. Bisher fanden Energyhacks 2013, 2015, 2017, 2018 und 2020 statt. Das Event dient zur Vernetzung der Open Data Szene im Energiebereich und dem Aufzeigen von Lösungen, die Open Data basiert sind.
+Der Prototype Fund Hardware ist Teil des Forschungsprojektes MoFab, das durch die WIR!-Initiative des Bundesministerium für Bildung und Forschung finanziert wird. Mit dem Fund werden durch sechs exemplarische Vergaben Bedarfe und Rahmenbedingungen ermittelt, die offene, nachhaltige und auf das öffentliche Interesse fokussierte Hardware fördern. Ziel ist es, auf der Grundlage der Erkenntnisse ein langfristiges Förderprogramm für Open Hardware aufzubauen. 
 
-### Was ist 2020 passiert?
+## Was ist 2021 passiert?
 
-#### *Ressourcen*
+### Ressourcen
 
-  **Laufzeit** <br>
-  
-  Die aktuelle Förderung umfasst den Zeitraum 2016 bis 2020.<br><br>
+#### Laufzeit
+Das Projekt startete im Juni 2021 und läuft bis Mai 2023.
 
-  **Budget** <br>
-  Einnahmen: 58.500 €<br>
-  Ausgaben: 24.383 €<br>
-  davon Personalausgaben: 7.883 €<br>
-  davon Sachausgaben: 16.500 €
-  <br><br>
+#### Budget
 
-  **Personal** <br>
-  Projektleitung: Walter Palmetshofer<br><br>
 
-  **Partner:innen** <br>
-  Remote Satellite [Verschwörhaus Ulm](https://verschwoerhaus.de/), Remote Catering, Community, TSB, IHK Berlin, Feuerwehr Berlin<br><br>
-  
-  **Förderung** <br>
-  Stromnetz Berlin<br><br>
-  
-#### *inhaltliche Schwerpunkte*
-Bereits zum 5. Mal organisierte die OKF zusammen mit Stromnetz Berlin den Energyhack Berlin. Mit dem Energyhack im September fand eine unserer sehr wenigen größeren Live & Hybrid-Veranstaltungen in diesem Jahr statt. Unter dem Motto „Energie für eine effiziente Stadt” wurde im Berliner Engelnest gebastelt, geschraubt und genetzwerkt. Wie bereits 2017 und 2018 fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE statt. Dadurch hatten wir die Chance, weitere Betriebe der Daseinsvorsorge, der Senatsverwaltung für Wirtschaft, Energie und Betriebe sowie Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz als Unterstützer und Bereitsteller von offenen Daten zu gewinnen. Mit der neuen Infralab Berlin Location und genügend Außenfläche hatten wir den perfekten Ort für die Veranstaltung in Coronazeiten. 
+Einnahmen: 46.813,69 €<br>
+Ausgaben: 47.524,75 €<br>
+davon Personalausgaben: 46.857,57 €<br>
+davon Sachausgaben: 667,18 €<br>
 
-#### *Ausblick*
-Aktuell ist keine Fortführung geplant.
+
+#### Personal
+Projektleitung: Maximilian Voigt | Projektmanagement: Dr. Daniel Wessolek
+
+#### ehrenamtliche Arbeit
+monatliche Netzwerk-Calls
+
+#### Partner:innen
+Arbeiterwohlfahrt Brandenburg Süd, Universität Potsdam, Wissenschaftsladen Potsdam
+
+#### Förderung
+Bundesministerium für Bildung und Forschung (WIR! – Wandel durch Innovation in der Region)
+
+### Inhaltliche Schwerpunkte
+
+Mit Beginn des Projektes wurde eine Vergabeplattform für das Förderprogramm aufgebaut. Für die Auswahl von Projekten wurden Verfahren und Vergabekriterien entwickelt. Nach der Formulierung und Veröffentlichung der ersten Ausschreibung wurde der Fund in der Fachcommunity bekanntgemacht. Parallel dazu wurden aktive Entwickler:innen von Open Hardware interviewt, um dem Thema zu mehr  Sichtbarkeit zu verhelfen. 
+
+### Ausblick
+
+Im zweiten Projektjahr werden erstmals Hardware-Projekte mit dem Förderprogramm begleitet. Die Erkenntnisse aus dieser ersten Runde werden ausgewertet, um Handlungsempfehlungen für die Weiterentwicklung des Funds daraus ableiten zu können. Fokus der Arbeit wird auch darauf liegen, ein langfristiges Finanzierungsmodell für das Förderprogramm zu entwickeln. 
 
 ### Website
 
-[https://energyhack.de/](https://energyhack.de/)
+[https://hardware.prototypefund.de/](https://hardware.prototypefund.de/)
