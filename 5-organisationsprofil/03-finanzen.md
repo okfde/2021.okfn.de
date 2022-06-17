@@ -24,7 +24,7 @@ Erfreulicherweise reduziert sich die Bilanzsumme auf der Passivseite in diesem J
 Das Vereinsvermögen der OKF DE aus Eigenkapital beträgt somit 1.346.000 Euro (VJ 1.006.000 €). Es ist größtenteils ungebunden (siehe Bankbestand) und kann fast vollständig liquidiert werden. Mit den liquiden Mitteln wäre es möglich, alle laufenden Zahlungsverpflichtungen für etwa acht Monate abzudecken. Aufgrund der bestehenden Niedrigzinsphase liegen die Bankbestände der OKF DE auf Girokonten; es gibt derzeit keine Anlagestrategie für freie Mittel.
 
 Der bilanzielle Jahresabschluss wurde mit Unterstützung der Steuerkanzlei Winkow angefertigt. Die Prüfung des Jahresabschlusses erfolgte im Mai/Juni 2022 durch die Wirtschaftsprüfungsgesellschaft Solidaris Revisions-GmbH. Es gab keine Beanstandungen. Eine Finanzübersicht im Jahresvergleich findet sich in folgendem PDF zum Download:
-https://2021.okfn.de/assets/documents/Finanzen_Jahresbericht_2021.pdf
+➠[Finanzen Jahresbericht 2021](https://2021.okfn.de/assets/documents/Finanzen_Jahresbericht_2021.pdf)
 
 ### Einnahmen und Ausgaben
 
