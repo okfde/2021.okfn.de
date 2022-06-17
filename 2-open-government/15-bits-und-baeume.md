@@ -1,43 +1,42 @@
 ---
 layout: page
-chapter: 2.16
+chapter: 2.15
 title: Bits & Bäume
 website: https://bits-und-baeume.org/de
 permalink: /open-government/bitsundbaeume/
 visual:
       img: /assets/images/civictech/bitsundbaeume.png
-      alt: Eine Beschreibung des Textes
+      alt: Logo Bits und Bäume
 ---
 
 ### Das Projekt
 
-Bits & Bäume (B&B) ist eine Bewegung, in der technologische Entwicklungen und das Ziel einer ökologisch und sozial nachhaltigen Zukunft zusammengedacht werden. Bits & Bäume war 2018 als Konferenz für Digitalisierung und Nachhaltigkeit entstanden. Daraus sind diverse Projekte und Kooperationen erwachsen, und es hat sich eine Bits & Bäume-Community gebildet, die sich online oder in Städten wie Berlin, Dresden oder Hannover trifft, um eine nachhaltige Digitalisierung und die Unterstützung ökologisch, demokratischer und sozial nachhaltiger Ziele durch Technologien voranzubringen. Die OKF DE ist Teil des Trägerkreises.
+Bits & Bäume ist eine Bewegung, in der technologische Entwicklungen und das Ziel einer ökologisch und sozial nachhaltigen Zukunft zusammengedacht werden. Bits & Bäume war 2018 als Konferenz für Digitalisierung und Nachhaltigkeit entstanden, aus der heraus diverse Projekte und Kooperationen erwachsen sind. Es hat sich eine Bits & Bäume-Community entwickelt, die sich online oder in Städten wie Berlin, Dresden oder Hannover trifft, um eine nachhaltige Digitalisierung und die Unterstützung ökologischer, demokratischer und sozial nachhaltiger Ziele durch Technologien voranzubringen. Die OKF DE ist seit 2017 Teil des Trägerkreises. 
 
-### Was ist 2020 passiert?
+## Was ist 2021 passiert? 
 
-#### *Ressourcen*
+### Ressourcen
 
-  **Laufzeit** <br>
-  
-  Das Projekt läuft seit 2018.<br><br>
+#### Laufzeit
+Das Projekt läuft seit 2018.
 
-  **Budget** <br>
-  keins<br><br>
+#### Budget
+keins
 
-  **Personal** <br>
-  keins - Von Seiten der OKF DE koordinierte Juliane Krüger (bis Juli) die Arbeit der Community, seit August betreuen Claudia Jach und Marie Gutbub die OKF-Aktivitäten von B&B.<br><br>
+#### Personal
+Claudia Jach hat die OKF DE im Trägerkreis vertreten. 
 
-  **ehrenamtliche Arbeit** <br>
-  Viele Stunden ehrenamtlicher Einsatz für Treffen des Trägerkreises und der weiteren Abstimmungen. <br><br>
-  
-  **Partner:innen** <br>
-  Brot für die Welt, BUND, Chaos Computer Club, Deutscher Naturschutzring, Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung, Germanwatch, Institut für ökologische Wirtschaftsforschung, Konzeptwerk Neue Ökonomie, TU Berlin<br><br>
+### Partner:innen
+Trägerkreis: Brot für die Welt, Bund für Umwelt und Naturschutz Deutschland, Chaos Computer Club, Deutscher Naturschutzring, Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung, Free Software Foundation Europe, Germanwatch, Institut für ökologische Wirtschaftsforschung, Konzeptwerk Neue Ökonomie, Technische Universität Berlin, Weizenbaum Institut, ver.di
 
-#### *inhaltliche Schwerpunkte*
-Hauptaugenmerk der Arbeit lag zunächst auf der Planung einer weiteren großen Veranstaltung, die für Herbst 2020 angedacht war. Nach Beginn der Coronapandemie mussten diese Aktivitäten verschoben werden. Das Jahr wurde dann dafür genutzt, das Netzwerk intern neu aufzustellen und die Organisationsstrukturen so zu fassen, dass Trägerkreis und Community auch mittelfristig stabil arbeits- und entscheidungsfähig sind. Die OKF DE konnte insbesondere das Jahresthema “Code for Climate” im Netzwerk Code for Germany nutzen, um die Themen von Bits & Bäume auch in andere Projekte der OKF DE zu tragen. 
+### Inhaltliche Schwerpunkte
 
-#### *Ausblick*
-Das nächste Jahr soll dafür genutzt werden, nötige organisatorische und finanzielle Vorbereitungen für die Durchführung einer B&B-Konferenz 2022 zu treffen.
+Das Jahr 2021 stand ganz im Zeichen des Fundraisings für die nächste Bits&Bäume-Konferenz, die im Herbst 2022 stattfinden wird. Die OKF DE hat Finanzierungsmöglichkeiten recherchiert und an mehreren Anträgen mitgewirkt. Zudem wurde der Trägerkreis strategisch um die Free Software Foundation Europe, das Weizenbaum Institut und ver.di erweitert und die neuen Mitglieder wurden in den Trägerkreis integriert. Zudem haben wir begonnen, die inhaltliche Ausrichtung der nächsten Konferenz zu planen und das Organisationsmodell hierfür in verschiedenen Arbeitsgruppen zu konzipieren. 
+
+### Ausblick
+
+Im Jahr 2022 wird die konkrete Umsetzung der Konferenz im Vordergrund stehen: Das Programm wird gestaltet, das Konferenzbüro eingerichtet, die operativen Arbeitsgruppen etabliert. Der Trägerkreis wird sich um die politische Arbeit rund um die Forderungen der Bits&Bäume-Bewegung kümmern. Im Herbst wird es dann die große Konferenz geben. 
+
 
 ### Website
 
