@@ -6,7 +6,7 @@ website: https://www.digitalejugendarbeit.de/
 permalink: /open-government/angstfrei/
 visual:
   img: /assets/images/opengovernment/angstfrei.png
-  alt: Logo von Angstfrei: Digitale Jugendarbeit
+  alt: Logo von Angstfrei Digitale Jugendarbeit
 ---
 
 ### Das Projekt
