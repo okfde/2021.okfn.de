@@ -73,7 +73,7 @@ resources: >
 
   **Personal** <br>
 
-Koordination: Sonja Fischbauer 
+  Koordination: Sonja Fischbauer 
 
   **ehrenamtliche Arbeit** <br>
 
