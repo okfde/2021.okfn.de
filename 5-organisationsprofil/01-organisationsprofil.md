@@ -25,49 +25,25 @@ Der **ehrenamtlich tätige Vorstand** setzt sich aus einem Vorsitz, einem stellv
 <table width="600">
   <tr>
     <th>Mitglieder des Vorstands</th>
-    <th>bis 28.05.2020</th>
-    <th>ab 28.05.2020</th>
+    <th>im Jahr 2021</th>
   </tr>
   <tr>
     <td>Vorsitz</td>
-    <td>Andreas Pawelke</td>
-    <td>Andreas Pawelke</td>
+    <td>ndreas Pawelke (bis 31.03.2021), Kristina Klein (ab 01.12.2021, sowie kommissarisch 01.04.-30.11.2021)</td>
   </tr>
   <tr>
     <td>Stellv. Vorsitz</td>
-    <td>Lucy Chambers</td>
-    <td>Jana Wichmann</td>
+    <td>Jana Wichmann (bis 27.12.2021)</td>
   </tr>
   <tr>
     <td>Kassenwartin</td>
-    <td>Kristina Klein</td>
     <td>Gabriele C. Klug</td>
   </tr>
   <tr>
-    <td>Beisitzer:in</td>
-    <td>Daniel Dietrich</td>
-    <td>Daniel Dietrich</td>
+    <td>Beisitzer:innen</td>
+    <td>Daniel Dietrich, Lea Gimpel, Dr. Stefan Heumann, Felix Reda</td>
   </tr>
-  <tr>
-    <td>Beisitzer:in</td>
-    <td>Jana Wichmann</td>
-    <td>Lea Gimpel</td>
-  </tr>
-  <tr>
-    <td>Beisitzer:in</td>
-    <td>--</td>
-    <td>Dr. Stefan Heumann</td>
-  </tr>
-  <tr>
-    <td>Beisitzer:in</td>
-    <td>--</td>
-    <td>Kristina Klein</td>
-  </tr>
-  <tr>
-    <td>Beisitzer:in</td>
-    <td>--</td>
-    <td>Julia Reda</td>
-  </tr>
+ 
  </table>
 
 <br>
