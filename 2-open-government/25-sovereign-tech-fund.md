@@ -2,11 +2,11 @@
 layout: page
 chapter: 2.25
 title: Sovereign Tech Fund
-website: https://energyhack.de/
+website: https://sovereigntechfund.de/
 permalink: /open-government/sovereign-tech-fund/
 visual:
-      img: /assets/images/opengovernment/energyhack.png
-      alt: Eine Beschreibung des Textes
+      img: /assets/images/opengovernment/okf-logo.png
+      alt: OKF Logo
 ---
 
 ### Das Projekt
