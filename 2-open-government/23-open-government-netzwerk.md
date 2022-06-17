@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.22
+chapter: 2.23
 title: Open Government Netzwerk
 website: https://opengovpartnership.de/
 permalink: /opengovernment/open-government-netzwerk/
@@ -11,41 +11,36 @@ visual:
 ---
 
 ### Das Projekt
+Das Open Government Netzwerk koordiniert die zivilgesellschaftliche Beteiligung im Rahmen der Open Government Partnership. Das Netzwerk wurde 2011 mit dem Ziel der aktiven Mitwirkung Deutschlands in der Open Government Partnership (OGP) gegründet. Die Koordinierungsstelle der Zivilgesellschaft wird von der OKF DE geleitet. Das Netzwerk setzt sich für offenes, transparentes, partizipatives und kooperatives Regierungs- und Verwaltungshandeln in Deutschland ein und nutzt den OGP-Prozess, um zivilgesellschaftliche Interessen zu verbreiten.
 
-Das Open Government Netzwerk koordiniert zivilgesellschaftliche Beteiligung im Rahmen der Open Government Partnership. Das Open Government Netzwerk wurde 2011 mit dem Ziel der aktiven Mitwirkung Deutschlands in der Open Government Partnership (OGP) gegründet. Die Koordinierungsstelle der Zivilgesellschaft wird von der OKF DE geleitet. Das Netzwerk setzt sich für offenes, transparentes, partizipatives und kooperatives Regierungs- und Verwaltungshandeln in Deutschland ein und nutzt den OGP-Prozess, um zivilgesellschaftliche Interessen zu verbreiten.
+## Was ist 2021 passiert?
 
-### Was ist 2020 passiert?
+### Ressourcen
 
-#### *Ressourcen*
+#### Laufzeit
+Das Projekt läuft seit 2011. 
 
-  **Laufzeit** <br>
-  
-  Das Projekt läuft seit 2011.<br><br>
+#### Personal
+Projektleitung: Walter Palmetshofer | Policy-Unterstützung: Dr. Henriette Litta, Arne Semsrott
 
-  **Budget** <br>
-  Einnahmen: 33.173 €<br>
-  Ausgaben: 27.223 €<br>
-  davon Personalausgaben: 25.407 €<br>
-  davon Sachausgaben: 1.816 €<br>
-  <br><br>
+#### ehrenamtliche Arbeit
+monatliche Netzwerkcalls
 
-  **Personal** <br>
-  Projektleitung: Michael Peters (bis April), Walter Palmetshofer | Policy-Unterstützung: Henriette Litta, Arne Semsrott<br><br>
+#### Partner:innen
+➠[Liste der Netzwerk Mitglieder](https://opengovpartnership.de/netzwerk/): Stiftung Neue Verantwortung, Transparency International Deutschland e.V., Bundesnetz Bürgerschaftliches Engagement, Stiftung Mitarbeit, fsfe, Offene Kommunen NRW, Politics for Tomorrow, Humboldt-Viadrina Governance Platform, Gesellschaft für Informatik, Stiftung Datenschutz, MFG Baden-Württemberg, Bertelsmann Stiftung, openPetition, FixMyBerlin, whistleblower Netzwerk e.V., Liquid Democracy, Berlin Institut für Partizipation, correlaid, Körber Stiftung, The Democratic Society, wechange, greennet project, netzwerk-n, Sozialhelden. 
 
-  **ehrenamtliche Arbeit** <br>
-  monatliche Netzwerkcalls<br><br>
-  
-  **Partner:innen** <br>
-  [Liste der Netzwerk Mitglieder](https://opengovpartnership.de/netzwerk/)<br><br>
-  
-  **Förderung** <br>
-  Luminate, Open Government Partnership<br><br>
-  
-#### *inhaltliche Schwerpunkte*
-Das Jahr 2020 stand ganz im Zeichen des zweiten Nationalen Aktionsplans (NAP). Das Netzwerk begleitete den Umsetzungsprozess aktiv mit mehreren Veranstaltungen und regelmäßigem Austausch mit dem zuständigen Referat im Bundeskanzleramt. Am 25.02. organisierte das Netzwerk die Veranstaltung "Mit Open Government Demokratie stärken" u.a. mit der Teilnahme etlicher Mitglieder des Lenkungsausschuss der internationalen Open Government Partnership. Am 29.07. wurde eine online-Veranstaltung des unabhängigen Berichterstatters zum Evaluationsreports zum NAP Designprozess organisiert. Der dabei präsentierte Bericht zeigte Verbesserungspotenziale im Ko-Kreation-Bereich auf, welche für die Erstellung des dritten NAP berücksichtigt werden sollen. Positiv am zweiten Nationalen Aktionsplan ist vor allem, dass auch erstmalig Bundesländer mit mit einbezogen sind und somit Open Government in Deutschland in die Fläche bringen. 
+#### Förderung
+keine
 
-#### *Ausblick*
-Die Verpflichtungen der Bundesregierung lassen Ambitionen bisher vermissen, Open Government in großem Umfang umzusetzen. So kritisieren sowohl das [Netzwerk](https://opengovpartnership.de/zweiter-nationale-aktionsplan/) als auch [Presseberichte](https://www.sueddeutsche.de/digital/open-government-bundesregierung-transparenz-1.4586224), dass der Plan keine Gesetzesänderungen enthält.  Hier sind 2021 mehr Führung der Politik zum Thema und mehr Druck aus der Zivilgesellschaft nötig, um beim 3. NAP für ambitionierte Ziele zu sorgen. Wir werden an beidem arbeiten und dafür auch die Vorbereitungen auf den Bundestagswahlkampf 2021 nutzen.
+### Inhaltliche Schwerpunkte
+
+Das Jahr 2021 stand ganz im Zeichen des ➠[dritten Nationalen Aktionsplans (NAP)](https://www.open-government-deutschland.de/opengov-de/dritter-nationaler-aktionsplan-verabschiedet-1936776). Das Netzwerk begleitete den Entstehungsprozess aktiv mit einen mehrstufigen Verfahren zum Vorschlagen von Verpflichtungen sowie regelmäßigem Austausch mit dem zuständigen Referat im Bundeskanzleramt. Positiv am dritten Nationalen Aktionsplan ist vor allem, dass auch weiterhin Bundesländer mit mit einbezogen werden und somit Open Government in Deutschland in die Fläche bringen soll. Ein weiterer Schwerpunkt war die Policy-Arbeit zur Verankerung des Begriffs OGP und des Nationalen Aktionsplan im  Bundestagswahlkampf 2021.
+
+### Ausblick
+
+Die Verpflichtungen der Bundesregierung lassen bisher weiterhin Ambitionen vermissen, Open Government in großem Umfang und auch regional umzusetzen. Hier sind 2022 mehr Führung der Politik zum Thema und mehr Druck aus der Zivilgesellschaft nötig, um den dritten Nationalen Aktionsplan erfolgreich umzusetzen, OGP regional zu stärken und bereits 2022 die Vorbereitung für den vierten Nationalen Aktionsplan mit ambitionierteren Zielen einzuleiten. 2022 findet zudem die Wahl der Strategiegruppe statt, es wird eine Ausweitung der Themenschwerpunkte um z. B. die Klimakrise angestrebt und ein Vernetzungstreffen mit nördlichen OGP-Mitgliedsgruppen ist geplant.
+
+
 
 ### Website
 
