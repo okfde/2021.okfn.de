@@ -6,43 +6,49 @@ website: https://www.digitalejugendarbeit.de/
 permalink: /open-government/angstfrei/
 visual:
   img: /assets/images/opengovernment/angstfrei.png
-  alt: Logo Turing-Bus
+  alt: Logo von Angstfrei: Digitale Jugendarbeit
 ---
-
 ### Das Projekt
-In der offenen Jugendarbeit liegt riesiges Potenzial. Sie bietet Räume zum Experimentieren, Ausprobieren und Kreativsein – genau der richtige Ort, um einen selbstbestimmten Umgang mit Digitalisierung zu entwickeln. Mit “Digitalisierung: vom Angstraum zum Freiraum der Jugendarbeit”  schaffen wir Freiräume für Jugendarbeiter:innen, um sich kreativ und neugierig in einem geschütztem Rahmen weiterzubilden. Im Fokus stehen Basiskompetenzen wie informationelle Selbstbestimmung und Datenschutz, aber auch diskursive Themen um die Wechselwirkung von Digitalität.
+In der offenen Jugendarbeit liegt riesiges Potenzial. Sie bietet Räume zum Experimentieren, Ausprobieren und Kreativ sein – genau der richtige Ort, um einen selbstbestimmten Umgang mit Digitalisierung zu entwickeln. Mit „Digitalisierung: vom Angstraum zum Freiraum der Jugendarbeit“  schaffen wir Freiräume für Jugendarbeiter:innen, damit sie sich kreativ und neugierig in einem geschütztem Rahmen weiterbilden können. Im Fokus stehen Basiskompetenzen wie informationelle Selbstbestimmung und Datenschutz, aber auch diskursive Themen um die Wechselwirkungen von Digitalität.
 
-### Was ist 2020 passiert?
+## Was ist 2021 passiert? 
 
-#### *Ressourcen*
+### Ressourcen
 
-  **Laufzeit** <br>
+#### Laufzeit
+Das Projekt lief von Januar 2020 bis August 2021.
 
-  Das Projekt läuft von Januar 2020 bis August 2021.<br><br>
+#### Budget
 
-  **Budget** <br>
-  Einnahmen: 6.850 € <br>
-  Ausgaben: 6.109 € <br>
-  davon Personalausgaben: 6.109 € <br>
-  davon Sachausgaben: 0 € <br><br>
+2021<br>
+Einnahmen: 11.130 €<br>
+Ausgaben: 11.130 €<br>
+davon Personalausgaben: 8.130 €<br>
+davon Sachausgaben: 3.000 €<br><br>
 
-  **Personal** <br>
-   
-  Projektleitung: Maximilian Voigt<br><br>
-  
-  **Partner:innen** <br>
-  
-  Youth Policy Labs, Generation and Educational Science Institute, Professional Open Youth Work in Europe<br><br>
-  
-  **Förderung** <br>
-  
-  Erasmus+<br><br>
-  
-#### *inhaltliche Schwerpunkte*
-Im Mittelpunkt stand die Entwicklung von Methoden zur diskursiven Auseinandersetzung mit dem Schwerpunkt “Digitalität und Gesellschaft”.
+2020<br>
+Einnahmen: 6.850 €<br>
+Ausgaben: 6.109 €<br>
+davon Personalausgaben: 6.109 €<br>
+davon Sachausgaben: 0 €<br><br>
 
-#### *Ausblick*
-Die zweite Phase des Projektes konzentriert sich auf die Testung der entwickelten Methoden.
+
+#### Personal
+Projektleitung: Maximilian Voigt
+
+#### Partner:innen
+Youth Policy Labs, Generation and Educational Science Institute, Professional Open Youth Work in Europe
+
+#### Förderung
+Erasmus+
+
+### Inhaltliche Schwerpunkte
+
+Im Mittelpunkt stand die Entwicklung von Methoden zur diskursiven Auseinandersetzung mit dem Schwerpunkt „Digitalität und Gesellschaft“.  
+
+### Ausblick
+
+Das Projekt ist abgeschlossen.
 
 ### Website
 
