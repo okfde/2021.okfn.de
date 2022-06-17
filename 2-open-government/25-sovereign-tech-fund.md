@@ -11,38 +11,37 @@ visual:
 
 ### Das Projekt
 
-Der Energyhack Berlin ist ein Eventformat, das Hackathons rund um das Thema Energieversorgung in Berlin durchführt. Bisher fanden Energyhacks 2013, 2015, 2017, 2018 und 2020 statt. Das Event dient zur Vernetzung der Open Data Szene im Energiebereich und dem Aufzeigen von Lösungen, die Open Data basiert sind.
+Digitale Basistechnologien ermöglichen das Entwickeln und Ausführen von Software auf Betriebssystemen und vernetzten Kommunikationssystemen. Sie sind für den Betrieb des Internets und weiterer Kommunikationsmedien erforderlich. Mit einem Förderprogramm speziell für offene digitale Basistechnologien könnte die Entwicklung und Wartung von relevanten Softwarekomponenten unterstützt werden, die unter offenen Lizenzen stehen und damit von allen genutzt werden können. Damit würden Wettbewerbsfähigkeit, Innovationskraft, Unabhängigkeit und Souveränität der  Zivilgesellschaft gestärkt werden. Im Rahmen des Projekts wurden mittels Machbarkeitsstudie die Voraussetzungen und Rahmenbedingungen für ein solches Förderprogramm analysiert. 
 
-### Was ist 2020 passiert?
+### Was ist 2021 passiert?
 
-#### *Ressourcen*
+#### Ressourcen
 
-  **Laufzeit** <br>
-  
-  Die aktuelle Förderung umfasst den Zeitraum 2016 bis 2020.<br><br>
+##### Laufzeit
+Das Projekt wurde zwischen Juni und Oktober 2021 umgesetzt. <br><br>
 
   **Budget** <br>
-  Einnahmen: 58.500 €<br>
-  Ausgaben: 24.383 €<br>
-  davon Personalausgaben: 7.883 €<br>
-  davon Sachausgaben: 16.500 €
+  Einnahmen: 98.353,04 €<br>
+  Ausgaben: 98.342,18 €<br>
+  davon Personalausgaben: 53.523,56 €<br>
+  davon Sachausgaben: 44.818,62 €
   <br><br>
 
   **Personal** <br>
-  Projektleitung: Walter Palmetshofer<br><br>
+  Projektleitung: Adriana Groh | Forschungsleitung: Katharina Meyer | Beratung: Dr. Henriette Litta<br><br>
 
   **Partner:innen** <br>
-  Remote Satellite [Verschwörhaus Ulm](https://verschwoerhaus.de/), Remote Catering, Community, TSB, IHK Berlin, Feuerwehr Berlin<br><br>
+  Fiona Krakenbürger, Eileen Wagner, Tara Tarakiyee<br><br>
   
   **Förderung** <br>
-  Stromnetz Berlin<br><br>
+  Bundesministerium für Wirtschaft und Klimaschutz<br><br>
   
 #### *inhaltliche Schwerpunkte*
-Bereits zum 5. Mal organisierte die OKF zusammen mit Stromnetz Berlin den Energyhack Berlin. Mit dem Energyhack im September fand eine unserer sehr wenigen größeren Live & Hybrid-Veranstaltungen in diesem Jahr statt. Unter dem Motto „Energie für eine effiziente Stadt” wurde im Berliner Engelnest gebastelt, geschraubt und genetzwerkt. Wie bereits 2017 und 2018 fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE statt. Dadurch hatten wir die Chance, weitere Betriebe der Daseinsvorsorge, der Senatsverwaltung für Wirtschaft, Energie und Betriebe sowie Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz als Unterstützer und Bereitsteller von offenen Daten zu gewinnen. Mit der neuen Infralab Berlin Location und genügend Außenfläche hatten wir den perfekten Ort für die Veranstaltung in Coronazeiten. 
+Im Rahmen der Machbarkeitsstudie wurden die Bedarfe und Möglichkeiten für ein Förderprogramm für offene digitale Basistechnologien geprüft. Die Idee orientiert sich u. a. am Open Technology Fund’s Core Infrastructure Fund und kann von dessen und den Erfahrungen aus anderen Programmen, z. B. des Prototype Funds, lernen und bereits getestete Verfahren übernehmen. Für die Ausgestaltung des Sovereign Tech Funds wurden zahlreiche weitere, bereits existierende Programme analysiert, Interviews mit Entwickler:innen und Stakeholdern im Open-Source-Ökosystem geführt sowie zwei Expert:innen-Workshops durchgeführt. Die Machbarkeitsstudie wurde am 16.11.2021 veröffentlicht und ist auf der Projekt-Website dauerhaft und kostenlos auf Deutsch und Englisch abrufbar. 
 
 #### *Ausblick*
 Aktuell ist keine Fortführung geplant.
 
 ### Website
 
-[https://energyhack.de/](https://energyhack.de/)
+[https://[energyhack.de](https://sovereigntechfund.de/](https://sovereigntechfund.de/)
