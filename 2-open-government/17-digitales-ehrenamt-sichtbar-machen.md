@@ -1,48 +1,44 @@
 ---
 layout: page
-chapter: 2.18
-title: Energyhack Berlin
-website: https://energyhack.de/
-permalink: /open-government/energyhack/
+chapter: 2.17
+title: Digitales Ehrenamt sichtbar machen
+website: 
+permalink: /open-government/digitales-ehrenamt-sichtbar-machen/
 visual:
-      img: /assets/images/opengovernment/energyhack.png
-      alt: Eine Beschreibung des Textes
+      img: /assets/images/opengovernment/DSEE-2021.jpg
+      alt: Ehrenamtliche und OKF-Geschäftsführerin Henriette Litta in Ulm
 ---
 
 ### Das Projekt
 
-Der Energyhack Berlin ist ein Eventformat, das Hackathons rund um das Thema Energieversorgung in Berlin durchführt. Bisher fanden Energyhacks 2013, 2015, 2017, 2018 und 2020 statt. Das Event dient zur Vernetzung der Open Data Szene im Energiebereich und dem Aufzeigen von Lösungen, die Open Data basiert sind.
+Mit diesem kurzfristig zustande gekommenen Projekt wollten wir erreichen, dass digital Ehrenamtliche auch während der Pandemie aktiv und motiviert an der Gestaltung unseres Gemeinwesens mitwirken können und ihren Forderungen Ausdruck verliehen werden kann. Das Projekt setzte damit einen wichtigen Kernbestandteil unserer Arbeit um: Eine Zivilgesellschaft mit starkem digitalem Engagement und Ehrenamt als wichtigen Bestandteil des gesellschaftspolitischen Diskurses zu etablieren. An diesem Projekt wirkte die ganze OKF DE mit.
 
-### Was ist 2020 passiert?
+## Was ist 2021 passiert?
 
-#### *Ressourcen*
+### Ressourcen
 
-  **Laufzeit** <br>
-  
-  Die aktuelle Förderung umfasst den Zeitraum 2016 bis 2020.<br><br>
+#### Laufzeit
+Das Projekt wurde im November und Dezember 2021 durchgeführt und ist abgeschlossen.
 
-  **Budget** <br>
-  Einnahmen: 58.500 €<br>
-  Ausgaben: 24.383 €<br>
-  davon Personalausgaben: 7.883 €<br>
-  davon Sachausgaben: 16.500 €
-  <br><br>
 
-  **Personal** <br>
-  Projektleitung: Walter Palmetshofer<br><br>
 
-  **Partner:innen** <br>
-  Remote Satellite [Verschwörhaus Ulm](https://verschwoerhaus.de/), Remote Catering, Community, TSB, IHK Berlin, Feuerwehr Berlin<br><br>
-  
-  **Förderung** <br>
-  Stromnetz Berlin<br><br>
-  
-#### *inhaltliche Schwerpunkte*
-Bereits zum 5. Mal organisierte die OKF zusammen mit Stromnetz Berlin den Energyhack Berlin. Mit dem Energyhack im September fand eine unserer sehr wenigen größeren Live & Hybrid-Veranstaltungen in diesem Jahr statt. Unter dem Motto „Energie für eine effiziente Stadt” wurde im Berliner Engelnest gebastelt, geschraubt und genetzwerkt. Wie bereits 2017 und 2018 fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE statt. Dadurch hatten wir die Chance, weitere Betriebe der Daseinsvorsorge, der Senatsverwaltung für Wirtschaft, Energie und Betriebe sowie Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz als Unterstützer und Bereitsteller von offenen Daten zu gewinnen. Mit der neuen Infralab Berlin Location und genügend Außenfläche hatten wir den perfekten Ort für die Veranstaltung in Coronazeiten. 
+#### Budget: 
+Einnahmen: 144.920 €<br>
+Ausgaben: 161.023 €<br>
+davon Personalausgaben: 45.709 €<br>
+davon Sachausgaben: 115.314 €<br>
 
-#### *Ausblick*
-Aktuell ist keine Fortführung geplant.
 
-### Website
+#### Personal
+An der Projektumsetzung beteiligte sich eine Vielzahl an Teammitgliedern der OKF DE.
 
-[https://energyhack.de/](https://energyhack.de/)
+#### ehrenamtliche Arbeit
+Insgesamt stecken im Projekt ca. 1.000 Stunden an ehrenamtlichem Engagement mit verschiedenen Tätigkeiten, die von Event- und Communityorganisation über Vortrags- und Bildungsarbeit bis hin zu technischen Aufgaben reichten. Wir haben 52 Ehrenamtliche durch die Ausschüttung der Ehrenamtspauschalen unterstützt. Darüber hinaus erreichten wir mit Kommunikations-Outreach und Merch-Versand noch einmal ca. 500 Ehrenamtliche. 
+
+#### Förderung
+Deutsche Stiftung für Engagement und Ehrenamt
+
+### Inhaltliche Schwerpunkte
+
+Grundlegend für erfolgreiches und sinnstiftendes Ehrenamt ist es, die Bedarfe, Interessen und Expertisen der Engagierten aufzunehmen, ernst zu nehmen und umzusetzen. Dazu zählt auch eine angemessene (materielle) Anerkennung für das Engagement. Wir haben Ehrenamtspauschalen an Aktive ausgeschüttet, um besonderes Engagement zu honorieren, sowie eine Reihe von Merch-Artikeln versendet als  Wertschätzung und für ein Gemeinschaftsgefühl. Wir konnten zu vielfältigen Themen Vernetzungstreffen durchführen und haben die technische Ausstattung für das hybride Arbeiten mit Ehrenamtlichen verbessert. Online veröffentlicht wurde zudem ➠[digitale Ausstellung zum Sichtbarmachen von digitalem Engagement](https://hardware.prototypefund.de/hardware-gallery/) mit Fokus auf ländliche Räume. Des Weiteren konnten wir Ehrenamtlichen Beratungen anbietenzu den Themen Datenschutz und Softwareentwicklung, Schreiben von „Kleintexten“, ehrenamtliche Arbeit mit Jugendlichen im digitalen Raum sowie IT-Sicherheit von Open-Source-Softwareprojekten. Diese Angebote zum Capacity Building trugen dazu bei, dass im ehrenamtlichen Engagement mehr Wissen aufgebaut und die Arbeit professionalisiert werden konnte.
+
