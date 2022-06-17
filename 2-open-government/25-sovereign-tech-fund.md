@@ -1,7 +1,7 @@
 ---
 layout: page
-chapter: 2.18
-title: Energyhack Berlin
+chapter: 2.25
+title: Sovereign Tech Fund
 website: https://energyhack.de/
 permalink: /open-government/sovereign-tech-fund/
 visual:
