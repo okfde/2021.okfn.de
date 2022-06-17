@@ -24,7 +24,7 @@ Das Projekt lief seit Dezember 2020 läuft bis Februar 2022.
 
 #### Budget
 Einnahmen: 81.661,34 €
-Ausgaben: 81.661,34 €d
+Ausgaben: 81.661,34 €
 
 
 #### Personal
@@ -46,4 +46,4 @@ Das Projekt wird im Februar 2022 abgeschlossen. Die Fachstelle für Internationa
 
 ### Website
 
-https://jugendverstaerker.digital 
+[https://jugendverstaerker.digital](https://jugendverstaerker.digital)
