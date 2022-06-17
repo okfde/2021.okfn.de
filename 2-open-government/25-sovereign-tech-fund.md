@@ -33,7 +33,7 @@ Projektleitung: Adriana Groh | Forschungsleitung: Katharina Meyer | Beratung: Dr
 Fiona Krakenbürger, Eileen Wagner, Tara Tarakiyee
 
 #### Förderung
-      Bundesministerium für Wirtschaft und Klimaschutz
+Bundesministerium für Wirtschaft und Klimaschutz
 
 ### Inhaltliche Schwerpunkte
 
