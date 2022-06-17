@@ -3,7 +3,7 @@ layout: page
 chapter: 2.18
 title: Energyhack Berlin
 website: https://energyhack.de/
-permalink: /open-government/energyhack/
+permalink: /open-government/sovereign-tech-fund/
 visual:
       img: /assets/images/opengovernment/energyhack.png
       alt: Eine Beschreibung des Textes
