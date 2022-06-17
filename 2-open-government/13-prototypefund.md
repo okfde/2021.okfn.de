@@ -5,8 +5,8 @@ title: Prototype Fund
 website: https://prototypefund.de
 permalink: /open-government/prototypefund/
 visual:
-    img: /assets/images/opengovernment/PTF.png
-    alt: Logo Prototype Fund
+    img: /assets/images/opengovernment/ptf-trialerror.png
+    alt: Prototype Fund Trial Error Schriftzug
 problem:
 - text: Digitale Innovation nutzt häufig nur wenigen und nicht der breiten Gesellschaft.
 - text: Technologien im Interesse des Gemeinwohls erhalten wenig finanzielle Förderung.
