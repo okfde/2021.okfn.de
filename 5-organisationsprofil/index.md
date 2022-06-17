@@ -34,7 +34,7 @@ Website: okfn.de
 
 **Link zur Satzung (URL)**<br>
 [https://okfn.de/files/documents/01_Satzung.pdf](https://okfn.de/files/documents/01_Satzung.pdf)<br>
-aktuelle Fassung vom 11.11.2017
+aktuelle Fassung vom 01.12.2021
 
 **Registereintrag**<br>
 Registergericht: Charlottenburg<br>
@@ -42,7 +42,7 @@ Registernummer: VR 30468 B<br>
 Datum der Eintragung: 11.05.2011<br>
 
 **Gemeinnützigkeit – Angaben gemäß § 52 Abgabenordnung**<br>
-Datum des letzten Feststellungsbescheids: 23.02.2021<br>
+Datum des letzten Feststellungsbescheids: 03.09.2021<br>
 Ausstellendes Finanzamt: Finanzamt für Körperschaften I Berlin<br>
 Erklärung des gemeinnützigen Zwecks: Förderung von Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe
 
