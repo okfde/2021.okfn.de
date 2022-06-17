@@ -2,7 +2,7 @@
 layout: page
 chapter: 2
 title: Projekte
-permalink: /open-government/
+permalink: /projekte/
 visual:
     img: /assets/images/civictech/civictech.png
     alt: Unsere Projekte
