@@ -1,12 +1,12 @@
 ---
 layout: page
 chapter: 2.18
-title: Energyhack Berlin
+title: Bündnis F5
 website: https://buendnis-f5.de/
 permalink: /open-government/buendnis-f5/
 visual:
-      img: /assets/images/opengovernment/okf-logo.png
-      alt: OKF Logo
+      img: /assets/images/opengovernment/buendnis-f5.png
+      alt: Logo Bündnis F5
 ---
 
 ### Das Projekt
