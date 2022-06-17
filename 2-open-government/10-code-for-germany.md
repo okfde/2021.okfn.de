@@ -73,7 +73,7 @@ resources: >
 
   **Personal** <br>
 
-  Projektleitung: Michael Peters (bis April) | Projektmanagerin: Claudia Jach <br><br>
+Koordination: Sonja Fischbauer 
 
   **ehrenamtliche Arbeit** <br>
 
@@ -141,4 +141,4 @@ outlook: >
 
 # Das Projekt
 
-Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch sollen die Beteiligung von Bürger:innen an demokratischen Prozessen gestärkt und ihr Lebensalltag erleichtert werden. In den Open Knowledge Labs (OK Labs) treffen sich Freiwillige regelmäßig in ihren Städten, um dies möglich zu machen. Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben.
+Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch wird die Beteiligung von Bürger:innen an demokratischen Prozessen gestärkt und ihr Lebensalltag erleichtert. Um dies zu ermöglichen, treffen sich Freiwillige regelmäßig in ihren Städten in den Open Knowledge Labs (OK-Labs). Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben.
