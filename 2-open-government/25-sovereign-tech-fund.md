@@ -17,22 +17,22 @@ Digitale Basistechnologien ermöglichen das Entwickeln und Ausführen von Softwa
 
 ### Ressourcen
 
-      #### Laufzeit
-      Das Projekt wurde zwischen Juni und Oktober 2021 umgesetzt. 
+#### Laufzeit
+Das Projekt wurde zwischen Juni und Oktober 2021 umgesetzt. 
 
-      #### Budget
-        Einnahmen: 98.353,04 €<br>
-        Ausgaben: 98.342,18 €<br>
-        davon Personalausgaben: 53.523,56 €<br>
-        davon Sachausgaben: 44.818,62 €
+#### Budget
+Einnahmen: 98.353,04 €<br>
+Ausgaben: 98.342,18 €<br>
+davon Personalausgaben: 53.523,56 €<br>
+davon Sachausgaben: 44.818,62 €
 
-      #### Personal
-      Projektleitung: Adriana Groh | Forschungsleitung: Katharina Meyer | Beratung: Dr. Henriette Litta
+#### Personal
+Projektleitung: Adriana Groh | Forschungsleitung: Katharina Meyer | Beratung: Dr. Henriette Litta
 
-      #### Partner:innen
-      Fiona Krakenbürger, Eileen Wagner, Tara Tarakiyee
+#### Partner:innen
+Fiona Krakenbürger, Eileen Wagner, Tara Tarakiyee
 
-      #### Förderung
+#### Förderung
       Bundesministerium für Wirtschaft und Klimaschutz
 
 ### Inhaltliche Schwerpunkte
