@@ -5,6 +5,6 @@ title: Team
 permalink: /organisation/team/
 visual:
     img: /assets/images/einleitung/teamanzahl2021.png
-    alt: Teamfotos
+    alt: Anhahl Teammitglieder
 team: false
 ---
