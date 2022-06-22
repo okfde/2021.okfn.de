@@ -27,14 +27,14 @@ eingetragener Verein
 
 **Kontaktdaten**
 Adresse: Singerstr. 109, 10179 Berlin<br>
-Telefon: 030 57 70 36 66 - 0<br>
-Fax: 030 57 70 36 66 - 9<br>
+Telefon: 030 97 89 42 30<br>
+Fax: 030 85 10 23 20<br>
 E-Mail: info[at]okfn.de<br>
 Website: okfn.de
 
 **Link zur Satzung (URL)**<br>
 [https://okfn.de/files/documents/01_Satzung.pdf](https://okfn.de/files/documents/01_Satzung.pdf)<br>
-aktuelle Fassung vom 01.12.2021
+bis 2021 gültige Fassung vom 11.11.2017
 
 **Registereintrag**<br>
 Registergericht: Charlottenburg<br>
@@ -44,7 +44,7 @@ Datum der Eintragung: 11.05.2011<br>
 **Gemeinnützigkeit – Angaben gemäß § 52 Abgabenordnung**<br>
 Datum des letzten Feststellungsbescheids: 03.09.2021<br>
 Ausstellendes Finanzamt: Finanzamt für Körperschaften I Berlin<br>
-Erklärung des gemeinnützigen Zwecks: Förderung von Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe
+Erklärung des gemeinnützigen Zwecks: Förderung von Wissenschaft und Forschung und Förderung der Volks- und Berufsbildung sowie der Studentenhilfe 
 
 **Arbeitnehmer:innenvertretung**<br>
 nicht vorhanden<br>
