@@ -5,8 +5,8 @@ title: Sovereign Tech Fund
 website: https://sovereigntechfund.de/
 permalink: /open-government/sovereign-tech-fund/
 visual:
-      img: /assets/images/opengovernment/okf-logo.png
-      alt: OKF Logo
+      img: /assets/images/opengovernment/stf.jpg
+      alt: Screenshot aus der Machbarkeitsstudie des Sovereign Tech Fund
 ---
 
 ### Das Projekt
